@@ -1,9 +1,9 @@
 input-file
 ==========
 
-An example how to style inputs file type.
+An example of how to style inputs type file.
 
-Inputs of file type are inposible to style, so you need to do some tricks to make it like you want.
+Inputs type="file" are impossible to style, so you need to do some tricks to make it like you want.
 The input need to be transparent, and you should to style fake input and its value after file choosing.
 
 
